@@ -14,15 +14,15 @@ In this project, the land surface temperature (LST) and normalized difference ve
 
 SDS210\_Project\_Yannick\_Wirz/
 
-&#x09;notebooks/
+├── notebooks/
 
-&#x09;	Project.ipynb
+│   ├── Project.ipynb
 
-&#x09;outputs/		<-- output images
+├── outputs/			<-- output images
 
-&#x09;.gitignore		<-- Landsat composites are not uploaded
+├── .gitignore			<-- Landsat composites are not included
 
-&#x09;README.md
+├── README.md
 
 
 
